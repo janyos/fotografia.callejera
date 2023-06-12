@@ -1,0 +1,40 @@
+body
+{
+position: relative;
+margin: 0;
+}
+.sect {
+	position:: fixed;
+	right:0;
+	bottom:0;
+	min-width:105%;
+	min-height:100%
+	tranform: translateX(calc((100% - 100vw)/2));
+	z-index:-2;
+}
+h1{
+	margin:0;
+	padding-top:3 rem;
+	padding-left:2 rem;
+}
+h2{
+	margin:0;
+	padding-top:3 rem;
+	padding-left:2 rem;
+}
+#sect1 h1 strong{
+	text-align::center;
+	font-size:xx-small;
+}
+#sect1 h1 strong a{
+	font-size:xx-large;
+	font-style: italic;
+	color:#00F;
+}
+audio{
+	padding-top:20px;
+	display:block;
+	margin:auto;
+	}
+
+

@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+    margin: 0;
+}
+.encabezado{
+	width: 100%;
+	float: left;
+	font-family: Verdana, Geneva, sans-serif;
+}
+.izquierdo{
+	background-color: skyblue;
+	width: 30%;
+	height: 230vh;
+	float: left;
+	font-family: Verdana, Geneva, sans-serif;
+}
+.centro{
+     background-color: lightblue;
+     width: 70%;
+    height: 230vh;
+    float: left;
+}
+.abajo{
+     background-color: grey;
+     width: 100%;
+    float: left;
+}
+.pie{
+     background-color: grey;
+     width: 100%;
+    float: left;
+}
+#c {
+	text-align: center;
+}
+#ce {
+	text-align: center;
+}
+.centro p {
+
+}
+gg {
+	text-align: center;
+}
+fg {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.encabezado p img {
+	text-align: center;
+}
+.encabezado p img {
+	text-align: center;
+}
+.centro p {
+	font-family: "MS Serif", "New York", serif;
+}
+.centro p {
+	font-family: Verdana, Geneva, sans-serif;
+	text-align: center;
+}
+.encabezado p {
+	text-align: center;
+	color: #FFFFFF;
+}
+#Titulo {
+	font-size: 36px;
+}
+#Tam {
+	font-size: xx-small;
+}
+#Tam {
+	font-size: 36px;
+}
+#Isw {
+	text-align: center;
+}

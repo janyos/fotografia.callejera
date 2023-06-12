@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	  border:0;
+}
+.encabezado{
+	background-color:#CCC;
+}
+.izquierda{
+	background-color:#CCC;
+	width:20%;
+	height: 100vh;
+	float:left;
+}
+.centro{
+	background-color:#FFF;
+	width:60%;
+	height: 100vh;
+	float:left;
+}
+.derecha{
+	background-color:#CCC;
+	width:20%;
+	height: 100vh;
+	float:left;
+}
+.abajo{
+	background-color:#CCC;
+	width:100%;	
+	float:left;
+}

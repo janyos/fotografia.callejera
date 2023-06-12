@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+*
+{
+	margin:0;
+}
+
+
+#ewee {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#text2 {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#text3 {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+body {
+	background-color: #a2d4ff;
+}
+#titulo {
+    background-color: #f2a4a4;
+	text-align: center;
+	font-size: 36px;
+	color: #006;
+     text-shadow: white 5px 5px;
+	}
+#imagen {
+	text-align: center;
+}
+	
+
+
+audio1
+{
+	padding-top:20px;
+	display:block;
+	margin:auto;
+}
+

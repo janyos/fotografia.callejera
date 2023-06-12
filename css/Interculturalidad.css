@@ -1,0 +1,56 @@
+@charset "utf-8";
+*{
+    margin:0;
+}
+.encabezado{
+   height: 20vh;
+   background-color: antiquewhite;
+}
+.izquierdo{
+    background-color: bisque;
+    width: 35%;
+    height: 100vh;
+    float: left;
+}
+.centro{
+	background-color: beige;
+	width: 65%;
+	height: 100vh;
+	float: left;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+.abajo{
+  background-color:burlywood;
+    width: 100%;
+    float: left;
+}/* CSS Document */
+
+#p {
+	text-align: center;
+}
+#dos {
+	text-align: center;
+	font-size: 24px;
+}
+#titulo {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+#dede {
+	text-align: center;
+}
+.encabezado p {
+	text-align: center;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+audio1
+{
+	padding-top:20px;
+	display:block;
+	margin:auto;
+}
+audio2
+{
+	padding-top:20px;
+	display:block;
+	margin:auto;
+}
